@@ -1,0 +1,5 @@
+/Users/DJ/Projects/myFirstConsoleProject/myFirstConsoleProject/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/DJ/Projects/myFirstConsoleProject/myFirstConsoleProject/bin/Debug/myFirstConsoleProject.exe.mdb
+/Users/DJ/Projects/myFirstConsoleProject/myFirstConsoleProject/bin/Debug/myFirstConsoleProject.exe
+/Users/DJ/Projects/myFirstConsoleProject/myFirstConsoleProject/obj/x86/Debug/myFirstConsoleProject.exe
+/Users/DJ/Projects/myFirstConsoleProject/myFirstConsoleProject/obj/x86/Debug/myFirstConsoleProject.exe.mdb
